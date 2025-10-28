@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "*": "minecraft:nether_star",
-    "C": "minecraft:heavy_core",
+    "C": "minecraft:end_rod",
     "N": "minecraft:netherite_ingot",
     "T": "minecraft:totem_of_undying"
   },
