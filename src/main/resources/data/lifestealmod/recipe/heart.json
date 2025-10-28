@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "*": "minecraft:nether_star",
+    "*": "minecraft:end_rod",
     "C": "minecraft:heavy_core",
     "N": "minecraft:netherite_ingot",
     "T": "minecraft:totem_of_undying"
